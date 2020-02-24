@@ -1,0 +1,84 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-08-12 09:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-08-12 09:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2019-08-15 14:18:58 +0000",
+      "iron_chestplate": "2019-08-15 14:18:58 +0000",
+      "iron_leggings": "2019-08-15 14:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_boots": "2019-08-15 14:18:58 +0000",
+      "has_iron_leggings": "2019-08-15 14:18:58 +0000",
+      "has_iron_chestplate": "2019-08-15 14:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-08-12 09:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-08-12 09:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2019-08-15 14:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-08-12 09:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-08-15 14:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-08-12 09:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_boots": "2019-08-15 14:18:58 +0000",
+      "has_iron_leggings": "2019-08-15 14:18:58 +0000",
+      "has_iron_chestplate": "2019-08-15 14:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2019-08-12 09:03:09 +0000",
+      "minecraft:mountains": "2019-08-15 14:18:10 +0000",
+      "minecraft:river": "2019-08-12 09:07:08 +0000",
+      "minecraft:wooded_mountains": "2019-08-13 00:18:35 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}
